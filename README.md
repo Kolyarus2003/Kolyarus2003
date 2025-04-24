@@ -7,9 +7,9 @@
   ●▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬●
 </p>
 
-<h1 align="center">Hi, I'm Klim4ik 👋</h1>
+<h1 align="center">Hi, I'm Kolyarus2003 👋</h1>
 <h3 align="center">Student & IT Programmer</h3>
-<p align="center"><sub>i want to go to Tokyo 🇯🇵</sub></p>
+<p align="center"><sub>i want to go to Japan 🇯🇵</sub></p>
 
 ---
 
